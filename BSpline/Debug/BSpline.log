@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\gonglixue\documents\visual studio 2015\projects\bspline\bspline\main.cpp(12): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\gonglixue\documents\visual studio 2015\projects\bspline\bspline\main.cpp(26): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  BSpline.vcxproj -> C:\Users\gonglixue\documents\visual studio 2015\Projects\BSpline\Debug\BSpline.exe
+  BSpline.vcxproj -> C:\Users\gonglixue\documents\visual studio 2015\Projects\BSpline\Debug\BSpline.pdb (Full PDB)
